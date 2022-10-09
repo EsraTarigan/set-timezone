@@ -12,7 +12,7 @@ Ubah Method boot()
 
 # open file config\app.php
 
-Ubah Nilai Varibel berikut di app.php
+Ubah Nilai Variabel berikut di app.php
 
     'timezone'  => 'Asia/Jakarta',
 
